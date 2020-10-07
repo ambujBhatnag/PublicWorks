@@ -1,5 +1,7 @@
 ==== CURRENTLY BEING WORKED ON ====
 
+This project shows a CAD representation of my thermoflask water bottle. A picture of the water bottle is on file as "WATERBOTTLESOURCE". 
+
 Because a simple thermoflask water bottle has a lot of complicated parts, I have broken it to down into several parts:
 
 1) Bottle Body: the part of the bottle that holds the actual water || done || pushed
