@@ -1,7 +1,7 @@
 CALENDAR STUFF AND COUNT THE DAYS
 ================
 
-Calendar Stuff: This program can compare two dates to each other and figure out characteristics of a particular date.
+Calendar Stuff: This program can compare two dates to each other and figure out characteristics of a particular date.<br />
 ~ checks if a year is a leap
 ~ checks how many days are in a given month
 ~ checks if two dates are the same
