@@ -10,10 +10,12 @@ Status: Not finished
 Status: finished
 
 =================================================  <br />
-What is to come ~ random ideas:
+What is to come (randome ideas):
 
 1. A 3D physics calculator based off of Soccer Sim located in pw/programming lab/ Ball, SoccerSim,Timer (and maybe riemann sum calculator for accuracy) coded in java
  ~ this would mainly be for projectile motion, however I hope to eventually include tension, dynamics, and any other basic level physics.
  
 2. A CAD part to hold a nintendo switch and a nintendo switch game controller
+
+3. greatness
 
