@@ -9,7 +9,7 @@ Status: Not finished
 2. Programming Lab Assignments: A bunch of projects from my time taking Programming Lab, which shows Java programs that I have coded using skeletons provided by the instructor
 Status: finished
 
-
+=================================================
 What is to come ~ random ideas:
 
 1. A 3D physics calculator based off of Soccer Sim located in pw/programming lab/ Ball, SoccerSim,Timer (and maybe riemann sum calculator for accuracy) coded in java
