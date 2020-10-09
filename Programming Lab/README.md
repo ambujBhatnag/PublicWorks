@@ -1,5 +1,8 @@
+Ambuj's Programming Lab Java Assignments 
+=================
+
 This directory showcases programs created with java that do not use any sort of data structures or algorithms.
-==================
+
 Preface:
 These programs were created when I took the "Programming Lab" class at Loyola Marymount University, which is required to take before Data Structures and Algorithsm for majors and minors. This class provided a better understanding of Java for me as a whole. The code has been academically reviewed. I believe the programs created in the class show my proficiency in creating object-oriented java programs.
 
