@@ -2,8 +2,8 @@
 
 This project shows a CAD representation of my thermoflask water bottle. A picture of the water bottle is on file as "WATERBOTTLESOURCE". 
 
-Nomal PDF's hav simple CAD pictures of the part
-PDF Drawing's have a drawing with relevant dimensions 
+Nomal PDF's have simple CAD pictures of the part
+PDF Drawing's (with DRAWING in the name) have a drawing of the part with relevant dimensions 
 
 Because a simple thermoflask water bottle has a lot of complicated parts, I have broken it to down into several parts:
 
