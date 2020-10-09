@@ -2,6 +2,9 @@
 
 This project shows a CAD representation of my thermoflask water bottle. A picture of the water bottle is on file as "WATERBOTTLESOURCE". 
 
+Nomal PDF's hav simple CAD pictures of the part
+PDF Drawing's have a drawing with relevant dimensions 
+
 Because a simple thermoflask water bottle has a lot of complicated parts, I have broken it to down into several parts:
 
 1) Bottle Body: the part of the bottle that holds the actual water || done || pushed ||
