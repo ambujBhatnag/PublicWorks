@@ -11,3 +11,5 @@ WHAT IS SHOWN:
 
 2) Dice, Die, Highroll: Programs that work with each other to roll dice...yeah.
 
+3) Riemann: A basic riemann sum calculator that can do basic functions: (sin, cosine, etc)
+
