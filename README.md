@@ -1,5 +1,5 @@
 # publicWorks as pw
-This is a collection of random, personal projects that might be engineering or computer science related
+This is a collection of random, personal projects that might be engineering or computer science related.
 
 What is shown:
 
