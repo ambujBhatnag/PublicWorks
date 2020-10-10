@@ -3,10 +3,10 @@ This is a collection of random, personal projects that might be engineering rela
 
 What is shown:
 
-1. Water Bottle Project: A CAD representation of the water bottle I use everday. Modeled of the thermoflask.
+1. Water Bottle Project: A CAD representation of the water bottle I use everday. Modeled off the thermoflask. <br />
 Status: Not finished 
 
-2. Programming Lab Assignments: A bunch of projects from my time taking Programming Lab, which shows Java programs that I have coded using skeletons provided by the instructor
+2. Programming Lab Assignments: A bunch of projects from my time taking Programming Lab, which shows Java programs that I have coded using skeletons provided by the instructor <br />
 Status: finished
 
 =================================================  <br />
