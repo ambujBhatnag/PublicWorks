@@ -6,10 +6,10 @@ Riemann: Calculates the riemann sum (the basic integral) within a given range fo
 *testing included directly in file*
 
 Functions that it works with: 
-polynomial
-sin 
-cos
-tan
-log
-exp
+polynomial,
+sin, 
+cos,
+tan,
+log,
+exp,
 square root
