@@ -5,7 +5,7 @@ This project shows a CAD representation of my thermoflask water bottle. A pictur
 Nomal PDFs have simple CAD pictures of the part.
 PDF drawings (with DRAWING in the name) have a drawing of the part with relevant dimensions 
 
-Because a simple thermoflask water bottle has a lot of complicated parts, I have broken it to down into several parts:
+Because a simple thermoflask water bottle has a lot of complicated parts, I have broken it down to into several parts:
 
 1) Bottle Body: the part of the bottle that holds the actual water || done || pushed ||
 2) Bottle Head: top part of the bottle where the lid is screwed on || done || pushed ||
